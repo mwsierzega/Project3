@@ -67,3 +67,34 @@ Additionally this requires some mathematical calculations to be done on the rema
 	⁃	0.5 of the “45 to 54 years” age group since that age group includes 5 of the 10 years needed
 	⁃	Added to age group “55 to 64 years”
 
+The following ethnicity data had to be organized so that the Census ethnicity data matched the OPTN ethnicity data:
+OPTN ethnicity data is categorized as follows:
+	•	All Ethnicities
+	•	White
+	•	Black
+	•	Hispanic/Latino
+	•	Asian
+	•	American Indian/Alaska Native
+	•	Pacific Islander
+	•	Multiracial
+
+The Census data is categorized as follows:
+	•	Total
+	•	Hispanic or Latino
+	•	White alone
+	•	Black or African American alone
+	•	American Indian and Alaska Native alone
+	•	Asian alone
+	•	Native Hawaiian and Other Pacific Islander alone
+	•	Some Other Race alone
+	•	And then several subcategories under:
+	⁃	Population of two or more races:
+	⁃	Population of three races:
+	⁃	Population of four races:
+	⁃	Population of five races:
+	⁃	 Population of six races:
+
+To follow the race categories of the OPTN data, the Census category “Some Other Race alone” will be eliminated as we have no way to understand the breakdown of this data. In addition, the category and subsequent subcategories of the Population of two or more races through six races will be combined to create one category “Multiracial”.
+
+The following are the data charts we are interested in looking at:
+	•	Globally: Wait Times, all ages, all ethnicities, all Patient States, broken down by state - bar chart
