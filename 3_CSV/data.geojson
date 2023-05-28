@@ -1,0 +1,821 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.79113,32.806671 ]
+    },
+    "properties": {
+    "State":"Alabama",
+    "Total":1639,
+    "Kidney":1405,
+    "Liver":161,
+    "Pancreas":7,
+    "Heart":22,
+    "Lung":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.404419,61.370716 ]
+    },
+    "properties": {
+    "State":"Alaska",
+    "Total":142,
+    "Kidney":127,
+    "Liver":10,
+    "Pancreas":0,
+    "Heart":2,
+    "Lung":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.431221,33.729759 ]
+    },
+    "properties": {
+    "State":"Arizona",
+    "Total":1161,
+    "Kidney":975,
+    "Liver":100,
+    "Pancreas":7,
+    "Heart":48,
+    "Lung":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.373123,34.969704 ]
+    },
+    "properties": {
+    "State":"Arkansas",
+    "Total":486,
+    "Kidney":384,
+    "Liver":50,
+    "Pancreas":3,
+    "Heart":31,
+    "Lung":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.681564,36.116203 ]
+    },
+    "properties": {
+    "State":"California",
+    "Total":21086,
+    "Kidney":18520,
+    "Liver":1861,
+    "Pancreas":67,
+    "Heart":244,
+    "Lung":104
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.311104,39.059811 ]
+    },
+    "properties": {
+    "State":"Colorado",
+    "Total":1158,
+    "Kidney":982,
+    "Liver":106,
+    "Pancreas":20,
+    "Heart":22,
+    "Lung":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.755371,41.597782 ]
+    },
+    "properties": {
+    "State":"Connecticut",
+    "Total":1283,
+    "Kidney":1031,
+    "Liver":179,
+    "Pancreas":3,
+    "Heart":52,
+    "Lung":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.507141,39.318523 ]
+    },
+    "properties": {
+    "State":"Delaware",
+    "Total":472,
+    "Kidney":396,
+    "Liver":51,
+    "Pancreas":0,
+    "Heart":10,
+    "Lung":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.026817,38.897438 ]
+    },
+    "properties": {
+    "State":"District of Columbia",
+    "Total":247,
+    "Kidney":207,
+    "Liver":23,
+    "Pancreas":2,
+    "Heart":5,
+    "Lung":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.686783,27.766279 ]
+    },
+    "properties": {
+    "State":"Florida",
+    "Total":5146,
+    "Kidney":4350,
+    "Liver":417,
+    "Pancreas":27,
+    "Heart":202,
+    "Lung":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.643074,33.040619 ]
+    },
+    "properties": {
+    "State":"Georgia",
+    "Total":3334,
+    "Kidney":2879,
+    "Liver":242,
+    "Pancreas":10,
+    "Heart":130,
+    "Lung":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.498337,21.094318 ]
+    },
+    "properties": {
+    "State":"Hawaii",
+    "Total":565,
+    "Kidney":533,
+    "Liver":28,
+    "Pancreas":3,
+    "Heart":0,
+    "Lung":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.478828,44.240459 ]
+    },
+    "properties": {
+    "State":"Idaho",
+    "Total":264,
+    "Kidney":208,
+    "Liver":41,
+    "Pancreas":1,
+    "Heart":7,
+    "Lung":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.986137,40.349457 ]
+    },
+    "properties": {
+    "State":"Illinois",
+    "Total":4476,
+    "Kidney":3765,
+    "Liver":274,
+    "Pancreas":63,
+    "Heart":179,
+    "Lung":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.258278,39.849426 ]
+    },
+    "properties": {
+    "State":"Indiana",
+    "Total":1546,
+    "Kidney":1253,
+    "Liver":122,
+    "Pancreas":13,
+    "Heart":90,
+    "Lung":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.210526,42.011539 ]
+    },
+    "properties": {
+    "State":"Iowa",
+    "Total":669,
+    "Kidney":536,
+    "Liver":62,
+    "Pancreas":6,
+    "Heart":30,
+    "Lung":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.726486,38.5266 ]
+    },
+    "properties": {
+    "State":"Kansas",
+    "Total":476,
+    "Kidney":339,
+    "Liver":92,
+    "Pancreas":2,
+    "Heart":37,
+    "Lung":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.670067,37.66814 ]
+    },
+    "properties": {
+    "State":"Kentucky",
+    "Total":1158,
+    "Kidney":925,
+    "Liver":132,
+    "Pancreas":8,
+    "Heart":45,
+    "Lung":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.867805,31.169546 ]
+    },
+    "properties": {
+    "State":"Louisiana",
+    "Total":1831,
+    "Kidney":1580,
+    "Liver":129,
+    "Pancreas":3,
+    "Heart":60,
+    "Lung":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.381927,44.693947 ]
+    },
+    "properties": {
+    "State":"Maine",
+    "Total":485,
+    "Kidney":369,
+    "Liver":81,
+    "Pancreas":7,
+    "Heart":18,
+    "Lung":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.802101,39.063946 ]
+    },
+    "properties": {
+    "State":"Maryland",
+    "Total":3063,
+    "Kidney":2313,
+    "Liver":542,
+    "Pancreas":16,
+    "Heart":108,
+    "Lung":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.530106,42.230171 ]
+    },
+    "properties": {
+    "State":"Massachusetts",
+    "Total":3817,
+    "Kidney":3070,
+    "Liver":549,
+    "Pancreas":21,
+    "Heart":99,
+    "Lung":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.536095,43.326618 ]
+    },
+    "properties": {
+    "State":"Michigan",
+    "Total":2622,
+    "Kidney":2127,
+    "Liver":223,
+    "Pancreas":38,
+    "Heart":140,
+    "Lung":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.900192,45.694454 ]
+    },
+    "properties": {
+    "State":"Minnesota",
+    "Total":1842,
+    "Kidney":1466,
+    "Liver":94,
+    "Pancreas":63,
+    "Heart":64,
+    "Lung":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.678696,32.741646 ]
+    },
+    "properties": {
+    "State":"Mississippi",
+    "Total":1120,
+    "Kidney":971,
+    "Liver":72,
+    "Pancreas":1,
+    "Heart":42,
+    "Lung":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.288368,38.456085 ]
+    },
+    "properties": {
+    "State":"Missouri",
+    "Total":1496,
+    "Kidney":1246,
+    "Liver":149,
+    "Pancreas":4,
+    "Heart":44,
+    "Lung":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.454353,46.921925 ]
+    },
+    "properties": {
+    "State":"Montana",
+    "Total":186,
+    "Kidney":154,
+    "Liver":18,
+    "Pancreas":1,
+    "Heart":3,
+    "Lung":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.268082,41.12537 ]
+    },
+    "properties": {
+    "State":"Nebraska",
+    "Total":341,
+    "Kidney":255,
+    "Liver":55,
+    "Pancreas":5,
+    "Heart":17,
+    "Lung":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.055374,38.313515 ]
+    },
+    "properties": {
+    "State":"Nevada",
+    "Total":696,
+    "Kidney":585,
+    "Liver":74,
+    "Pancreas":7,
+    "Heart":13,
+    "Lung":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.563896,43.452492 ]
+    },
+    "properties": {
+    "State":"New Hampshire",
+    "Total":488,
+    "Kidney":386,
+    "Liver":77,
+    "Pancreas":3,
+    "Heart":13,
+    "Lung":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.521011,40.298904 ]
+    },
+    "properties": {
+    "State":"New Jersey",
+    "Total":3655,
+    "Kidney":3152,
+    "Liver":246,
+    "Pancreas":33,
+    "Heart":101,
+    "Lung":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.248482,34.840515 ]
+    },
+    "properties": {
+    "State":"New Mexico",
+    "Total":671,
+    "Kidney":555,
+    "Liver":80,
+    "Pancreas":5,
+    "Heart":14,
+    "Lung":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.948051,42.165726 ]
+    },
+    "properties": {
+    "State":"New York",
+    "Total":8244,
+    "Kidney":7089,
+    "Liver":503,
+    "Pancreas":132,
+    "Heart":276,
+    "Lung":83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.806419,35.630066 ]
+    },
+    "properties": {
+    "State":"North Carolina",
+    "Total":3778,
+    "Kidney":3430,
+    "Liver":119,
+    "Pancreas":36,
+    "Heart":85,
+    "Lung":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.784012,47.528912 ]
+    },
+    "properties": {
+    "State":"North Dakota",
+    "Total":168,
+    "Kidney":134,
+    "Liver":9,
+    "Pancreas":5,
+    "Heart":11,
+    "Lung":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764915,40.388783 ]
+    },
+    "properties": {
+    "State":"Ohio",
+    "Total":2557,
+    "Kidney":1957,
+    "Liver":298,
+    "Pancreas":28,
+    "Heart":170,
+    "Lung":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.928917,35.565342 ]
+    },
+    "properties": {
+    "State":"Oklahoma",
+    "Total":810,
+    "Kidney":593,
+    "Liver":169,
+    "Pancreas":2,
+    "Heart":24,
+    "Lung":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.070938,44.572021 ]
+    },
+    "properties": {
+    "State":"Oregon",
+    "Total":545,
+    "Kidney":419,
+    "Liver":65,
+    "Pancreas":3,
+    "Heart":30,
+    "Lung":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.209755,40.590752 ]
+    },
+    "properties": {
+    "State":"Pennsylvania",
+    "Total":5320,
+    "Kidney":4550,
+    "Liver":413,
+    "Pancreas":45,
+    "Heart":101,
+    "Lung":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.51178,41.680893 ]
+    },
+    "properties": {
+    "State":"Rhode Island",
+    "Total":441,
+    "Kidney":354,
+    "Liver":58,
+    "Pancreas":2,
+    "Heart":20,
+    "Lung":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.945007,33.856892 ]
+    },
+    "properties": {
+    "State":"South Carolina",
+    "Total":2221,
+    "Kidney":1975,
+    "Liver":89,
+    "Pancreas":10,
+    "Heart":80,
+    "Lung":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.438828,44.299782 ]
+    },
+    "properties": {
+    "State":"South Dakota",
+    "Total":323,
+    "Kidney":274,
+    "Liver":34,
+    "Pancreas":5,
+    "Heart":3,
+    "Lung":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.692345,35.747845 ]
+    },
+    "properties": {
+    "State":"Tennessee",
+    "Total":2159,
+    "Kidney":1886,
+    "Liver":193,
+    "Pancreas":14,
+    "Heart":34,
+    "Lung":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.563461,31.054487 ]
+    },
+    "properties": {
+    "State":"Texas",
+    "Total":11192,
+    "Kidney":9277,
+    "Liver":1307,
+    "Pancreas":29,
+    "Heart":349,
+    "Lung":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.862434,40.150032 ]
+    },
+    "properties": {
+    "State":"Utah",
+    "Total":615,
+    "Kidney":474,
+    "Liver":90,
+    "Pancreas":2,
+    "Heart":34,
+    "Lung":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.710686,44.045876 ]
+    },
+    "properties": {
+    "State":"Vermont",
+    "Total":161,
+    "Kidney":123,
+    "Liver":28,
+    "Pancreas":0,
+    "Heart":9,
+    "Lung":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.169968,37.769337 ]
+    },
+    "properties": {
+    "State":"Virginia",
+    "Total":3333,
+    "Kidney":2738,
+    "Liver":333,
+    "Pancreas":34,
+    "Heart":116,
+    "Lung":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.490494,47.400902 ]
+    },
+    "properties": {
+    "State":"Washington",
+    "Total":1482,
+    "Kidney":1200,
+    "Liver":164,
+    "Pancreas":10,
+    "Heart":41,
+    "Lung":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.954453,38.491226 ]
+    },
+    "properties": {
+    "State":"West Virginia",
+    "Total":410,
+    "Kidney":297,
+    "Liver":76,
+    "Pancreas":5,
+    "Heart":16,
+    "Lung":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.616508,44.268543 ]
+    },
+    "properties": {
+    "State":"Wisconsin",
+    "Total":1516,
+    "Kidney":1207,
+    "Liver":163,
+    "Pancreas":17,
+    "Heart":63,
+    "Lung":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.30249,42.755966 ]
+    },
+    "properties": {
+    "State":"Wyoming",
+    "Total":97,
+    "Kidney":80,
+    "Liver":9,
+    "Pancreas":4,
+    "Heart":1,
+    "Lung":0
+    }
+  }
+]
+}
