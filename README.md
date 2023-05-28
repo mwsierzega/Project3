@@ -26,7 +26,8 @@ The most noteworthy risk-adjusted differences in access to kidney transplants co
 	•	Prior kidney transplant
 	•	Diagnosis
 	
-	![Screenshot 2023-05-27 at 10 45 02 PM](https://github.com/mwsierzega/Project3/assets/123790798/e5399d7a-166e-4e3b-bc45-42c2dfd2b765)
+![Screenshot 2023-05-27 at 10 45 02 PM](https://github.com/mwsierzega/Project3/assets/123790798/f32c2cc9-61e5-40fe-90b1-243bfa2a3503)
+	
 
 	
 	
