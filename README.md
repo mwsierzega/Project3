@@ -1,8 +1,16 @@
 # Organ Wait List by State - Map Visualization
 ---
-## click me! 
+## Explanation of Map Visualization 
 ---
-### Creating an interactive map visualization
+### Creating an interactive experience
+---
+The architecture of the code is based mostly on activity #09-Stu_City_Population_Layers from Mod15 Mapping Day 1.
+The steps below outline the order in which the code is written and explaination for how it works.
+---
+1. Write a function to determine the marker size based on the total number of indivisuals on the wait list for all organs, kidney, liver, and heart.
+2. First, we need the data. I created an array that holds data from data.csv file. Each state contains information for total number of individuals on waitlist, those waiting for kidney, liver, and heart transplants. The array also hold information for coordinates for each state that will help place the markers for each total on the wait list.
+![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/dots-obsession.png) 
+
 
 ---
 ### trick of the eye
@@ -16,7 +24,7 @@ Yayoi Kusama, 'Dots Obsession', 2007. Wiels, Brussels
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/dots-obsession-yakoi-kusama.png)
 
 Project 3 map visualization:
-![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/dots-obsession.png)
+![Image Link](xxx)
 
 ---
 ### where is the data from?
@@ -24,9 +32,9 @@ Project 3 map visualization:
 1. Organ Procurement & Transplantation Network:
 https://optn.transplant.hrsa.gov/data/view-data-reports/build-advanced/
 2. fill out fields for 
-    a. data category >> select "waitlist" 
-    b. choose report columns >> "organs"
-    c. choose report rows >> "candidate state of residence"
+- data category >> select "waitlist" 
+- choose report columns >> "organs"
+- choose report rows >> "candidate state of residence"
 3. download .csv file
 
 ![Image Link](xxx)
