@@ -1,6 +1,7 @@
 # Organ Wait List by State - Map Visualization
 ---
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/map-final-full-view.png)
+![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/map-final-closeup.png)
 ---
 ## Explanation of Map Visualization: Creating an Interactive Experience
 ---
@@ -11,7 +12,6 @@ The steps below outline the order in which the code is written and explaination 
 2. Create an array that holds data from data.csv file
 - Each state contains information for total number of individuals on waitlist, those waiting for kidney, liver, and heart transplants
 - The array also holds information for coordinates for each state that will help place the markers for each total on the wait list
-![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/waitlist-array.png) 
 3. Define four arrays to hold total, kidney, liver, and heart markers
 4. Loop through state coordinates from waitlist array to create map markers 
 5. Set the marker radius for the organ waitlist by passing total into the markerSize function. Set color of marker for each total on the waitlist.
@@ -41,7 +41,7 @@ Yayoi Kusama, 'Dots Obsession', 2007. Wiels, Brussels
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/dots-obsession-yakoi-kusama.png)
 
 ---
-### where is the data from?
+### Data Source
 ---
 1. Organ Procurement & Transplantation Network:
 https://optn.transplant.hrsa.gov/data/view-data-reports/build-advanced/
@@ -54,7 +54,7 @@ https://optn.transplant.hrsa.gov/data/view-data-reports/build-advanced/
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/1data-source.png)
 
 ---
-### edit and clean the data
+### Edit and Clean the Data for Map Visualization
 ---
 1. delete territories/other locations from states column to only display 50 states
 2. add columns for coordinates latitude and longitude for each state
