@@ -3,6 +3,10 @@
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/map-final-full-view.png)
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/map-final-closeup.png)
 ---
+### An Overwhelming Consensus - Analysis of Data
+---
+#### Based on map visualization, user can determine quickly that an overwhelming majority of waist list candidates are waiting for kidney transplants and majority of organ waitlist candidates reside in very populated regions of the United States. California ranks at the top of the list for total number of waitlist candidates. California also appears to be one of the biggest states by land mass suggesting that the candidates may be spread out across a wide area. Without knowing the county or city of candidates on waitlist we cannot know for certain. On the opposite side of the country, the clusters of circles in the North East Regions are dense and overlapping. The significant demand for organ transplants in these states poses more questions than answers. For example, is there state legislature that inadvertently creates difficulty for waitlisted individuals to receive an organ from another state? Are there ways to improve wait-times for candidates through increased incentives for organ donations to residents in these regions? Is there a need for more organ transplant centers? A layer for improvement could be calculating waitlisted individuals per capita in each state. Even with that interesting data calculation, we would most likely still see overlapping circles in the North East states because of population density by area. This poses another question: does the demand for organs in a densely populated area such as the North East with wide ranging socio-econimic and ethnic diversity per area need to be addressed differently than the demand for organs in California, Texas, or Illinois? Why does everyone need a kidney? 
+---
 ## Explanation of Map Visualization: Creating an Interactive Experience
 ---
 The architecture of the code is based mostly on activity #09-Stu_City_Population_Layers from Mod15 Mapping Day 1.
