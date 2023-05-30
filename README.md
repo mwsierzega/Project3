@@ -2,10 +2,20 @@
 ---
 ## Marcela - Map Visualization
 ---
-link to branch with explanation of map visualization:
-https://github.com/mwsierzega/Project3/tree/marcela
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/map-final-full-view.png)
-
+![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/gif-final-layers-view.gif)
+---
+### An Overwhelming Consensus - Analysis of Data
+---
+Based on map visualization, user can determine quickly that an overwhelming majority of waist list candidates are waiting for kidney transplants and majority of organ waitlist candidates reside in very populated regions of the United States. California ranks at the top of the list for total number of waitlist candidates. California also appears to be one of the biggest states by land mass suggesting that the candidates may be spread out across a wide area. Without knowing the county or city of candidates on waitlist we cannot know for certain. On the opposite side of the country, the clusters of circles in the North East Regions are dense and overlapping. The significant demand for organ transplants in these states poses more questions than answers. For example, is there state legislature that inadvertently creates difficulty for waitlisted individuals to receive an organ from another state? Are there ways to improve wait-times for candidates through increased incentives for organ donations to residents in these regions? Is there a need for more organ transplant centers? A layer for improvement could be calculating waitlisted individuals per capita in each state. Even with that interesting data calculation, we would most likely still see overlapping circles in the North East states because of population density by area. This poses another question: does the demand for organs in a densely populated area such as the North East with wide ranging socio-economic and ethnic diversity per area need to be addressed differently than the demand for organs in California, Texas, or Illinois? Why does everyone need a kidney? 
+---
+### Explanation of Map Visualization: Creating an Interactive Experience
+---
+The architecture of the code is based mostly on activity #09-Stu_City_Population_Layers from Module 15 Mapping Day 1 which showed us how to code data layers using Leaflet to allow user to toggle between data markers, create pop up events which can display information by looping through data source, and customize markers size and colors to the ratio of totals and input. Using open street map to pull in street view of world map, each marker was plotted using geo location coordinates. The greyscale appearance was coded in CSS file for aesthetic reasons to allow dots to stand out. 
+- For detailed outline of explanation to code please refer to link to Marcela's branch:
+https://github.com/mwsierzega/Project3/tree/marcela
+---
+---
 ---
 ## Sunderiya - Kidney Graphs
 ---
