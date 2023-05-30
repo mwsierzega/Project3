@@ -4,12 +4,12 @@
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/map-final-full-view.png)
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/map-final-closeup.png)
 ---
-### An Overwhelming Consensus - Analysis of Data
+## An Overwhelming Consensus - Analysis of Data
 ---
 #### Based on map visualization, user can determine quickly that an overwhelming majority of waist list candidates are waiting for kidney transplants and majority of organ waitlist candidates reside in very populated regions of the United States. California ranks at the top of the list for total number of waitlist candidates. California also appears to be one of the biggest states by land mass suggesting that the candidates may be spread out across a wide area. Without knowing the county or city of candidates on waitlist we cannot know for certain. On the opposite side of the country, the clusters of circles in the North East Regions are dense and overlapping. The significant demand for organ transplants in these states poses more questions than answers. For example, is there state legislature that inadvertently creates difficulty for waitlisted individuals to receive an organ from another state? Are there ways to improve wait-times for candidates through increased incentives for organ donations to residents in these regions? Is there a need for more organ transplant centers? A layer for improvement could be calculating waitlisted individuals per capita in each state. Even with that interesting data calculation, we would most likely still see overlapping circles in the North East states because of population density by area. This poses another question: does the demand for organs in a densely populated area such as the North East with wide ranging socio-econimic and ethnic diversity per area need to be addressed differently than the demand for organs in California, Texas, or Illinois? Why does everyone need a kidney? 
-# ---
+---
 ## Explanation of Map Visualization: Creating an Interactive Experience
-# ---
+---
 #### The architecture of the code is based mostly on activity #09-Stu_City_Population_Layers from Mod15 Mapping Day 1. The steps below outline the order in which the code is written and explaination for how it works.
 ---
 1. Write a function to determine the marker size based on the total number of indivisuals on the wait list for all organs, kidney, liver, and heart
@@ -39,13 +39,13 @@
 - I did not like the marker that appears by default because it looks too cluttered when displayed for each state. See comparison in images. 
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/marker-compare.png)
 ---
-## inspiration for visualization with dots
+## Inspiration for Visualization with Dots
 ---
 Yayoi Kusama, 'Dots Obsession', 2007. Wiels, Brussels
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/dots-obsession-yakoi-kusama.png)
 
 ---
-### Data Source
+## Data Source
 ---
 1. Organ Procurement & Transplantation Network:
 https://optn.transplant.hrsa.gov/data/view-data-reports/build-advanced/
@@ -58,7 +58,7 @@ https://optn.transplant.hrsa.gov/data/view-data-reports/build-advanced/
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/1data-source.png)
 
 ---
-### Edit and Clean the Data for Map Visualization
+## Edit and Clean the Data for Map Visualization
 ---
 1. delete territories/other locations from states column to only display 50 states
 2. add columns for coordinates latitude and longitude for each state
@@ -71,7 +71,7 @@ After:
 ![Image Link](https://github.com/mwsierzega/Project3/blob/marcela/2_Images/2data-after.png)
 
 ---
-### Sources
+#### Sources
 ---
 Code for greyscale map:
 https://github.com/PaulLeCam/react-leaflet/issues/143
