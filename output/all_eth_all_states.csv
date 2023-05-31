@@ -1,0 +1,544 @@
+,Ethnicities,All Patient States,Wait Time
+0,All Ethnicities,"114,059",All Time
+1,All Ethnicities,"5,234",< 30 Days
+2,All Ethnicities,"9,368",30 to < 90 Days
+3,All Ethnicities,"10,151",90 Days to < 6 Months
+4,All Ethnicities,"17,886",6 Months to < 1 Year
+5,All Ethnicities,"24,856",1 Year to < 2 Years
+6,All Ethnicities,"15,243",2 Years to < 3 Years
+7,All Ethnicities,"18,277",3 Years to < 5 Years
+8,All Ethnicities,"13,044",5 or More Years
+9,White alone,"45,303",All Time
+10,White alone,"2,483",< 30 Days
+11,White alone,"4,229",30 to < 90 Days
+12,White alone,"4,491",90 Days to < 6 Months
+13,White alone,"7,520",6 Months to < 1 Year
+14,White alone,"10,032",1 Year to < 2 Years
+15,White alone,"5,883",2 Years to < 3 Years
+16,White alone,"6,369",3 Years to < 5 Years
+17,White alone,"4,296",5 or More Years
+18,Black or African American alone,"32,537",All Time
+19,Black or African American alone,"1,299",< 30 Days
+20,Black or African American alone,"2,477",30 to < 90 Days
+21,Black or African American alone,"2,772",90 Days to < 6 Months
+22,Black or African American alone,"5,021",6 Months to < 1 Year
+23,Black or African American alone,"7,260",1 Year to < 2 Years
+24,Black or African American alone,"4,460",2 Years to < 3 Years
+25,Black or African American alone,"5,351",3 Years to < 5 Years
+26,Black or African American alone,"3,897",5 or More Years
+27,Hispanic or Latino,"24,088",All Time
+28,Hispanic or Latino,"1,016",< 30 Days
+29,Hispanic or Latino,"1,841",30 to < 90 Days
+30,Hispanic or Latino,"2,004",90 Days to < 6 Months
+31,Hispanic or Latino,"3,574",6 Months to < 1 Year
+32,Hispanic or Latino,"5,010",1 Year to < 2 Years
+33,Hispanic or Latino,"3,212",2 Years to < 3 Years
+34,Hispanic or Latino,"4,272",3 Years to < 5 Years
+35,Hispanic or Latino,"3,159",5 or More Years
+36,Asian alone,"9,650",All Time
+37,Asian alone,328,< 30 Days
+38,Asian alone,626,30 to < 90 Days
+39,Asian alone,686,90 Days to < 6 Months
+40,Asian alone,"1,399",6 Months to < 1 Year
+41,Asian alone,"2,066",1 Year to < 2 Years
+42,Asian alone,"1,330",2 Years to < 3 Years
+43,Asian alone,"1,843",3 Years to < 5 Years
+44,Asian alone,"1,372",5 or More Years
+45,American Indian and Alaska Native alone,941,All Time
+46,American Indian and Alaska Native alone,44,< 30 Days
+47,American Indian and Alaska Native alone,76,30 to < 90 Days
+48,American Indian and Alaska Native alone,87,90 Days to < 6 Months
+49,American Indian and Alaska Native alone,157,6 Months to < 1 Year
+50,American Indian and Alaska Native alone,189,1 Year to < 2 Years
+51,American Indian and Alaska Native alone,127,2 Years to < 3 Years
+52,American Indian and Alaska Native alone,155,3 Years to < 5 Years
+53,American Indian and Alaska Native alone,106,5 or More Years
+54,Native Hawaiian and Other Pacific Islander alone,622,All Time
+55,Native Hawaiian and Other Pacific Islander alone,20,< 30 Days
+56,Native Hawaiian and Other Pacific Islander alone,38,30 to < 90 Days
+57,Native Hawaiian and Other Pacific Islander alone,36,90 Days to < 6 Months
+58,Native Hawaiian and Other Pacific Islander alone,80,6 Months to < 1 Year
+59,Native Hawaiian and Other Pacific Islander alone,126,1 Year to < 2 Years
+60,Native Hawaiian and Other Pacific Islander alone,92,2 Years to < 3 Years
+61,Native Hawaiian and Other Pacific Islander alone,126,3 Years to < 5 Years
+62,Native Hawaiian and Other Pacific Islander alone,104,5 or More Years
+63,Population of two or more races:,918,All Time
+64,Population of two or more races:,44,< 30 Days
+65,Population of two or more races:,81,30 to < 90 Days
+66,Population of two or more races:,75,90 Days to < 6 Months
+67,Population of two or more races:,135,6 Months to < 1 Year
+68,Population of two or more races:,173,1 Year to < 2 Years
+69,Population of two or more races:,139,2 Years to < 3 Years
+70,Population of two or more races:,161,3 Years to < 5 Years
+71,Population of two or more races:,110,5 or More Years
+72,All Ethnicities,713,All Time
+73,All Ethnicities,84,< 30 Days
+74,All Ethnicities,151,30 to < 90 Days
+75,All Ethnicities,119,90 Days to < 6 Months
+76,All Ethnicities,143,6 Months to < 1 Year
+77,All Ethnicities,120,1 Year to < 2 Years
+78,All Ethnicities,59,2 Years to < 3 Years
+79,All Ethnicities,31,3 Years to < 5 Years
+80,All Ethnicities,6,5 or More Years
+81,White alone,342,All Time
+82,White alone,35,< 30 Days
+83,White alone,79,30 to < 90 Days
+84,White alone,60,90 Days to < 6 Months
+85,White alone,63,6 Months to < 1 Year
+86,White alone,54,1 Year to < 2 Years
+87,White alone,28,2 Years to < 3 Years
+88,White alone,18,3 Years to < 5 Years
+89,White alone,5,5 or More Years
+90,Black or African American alone,139,All Time
+91,Black or African American alone,14,< 30 Days
+92,Black or African American alone,30,30 to < 90 Days
+93,Black or African American alone,27,90 Days to < 6 Months
+94,Black or African American alone,24,6 Months to < 1 Year
+95,Black or African American alone,25,1 Year to < 2 Years
+96,Black or African American alone,15,2 Years to < 3 Years
+97,Black or African American alone,4,3 Years to < 5 Years
+98,Hispanic or Latino,163,All Time
+99,Hispanic or Latino,24,< 30 Days
+100,Hispanic or Latino,24,30 to < 90 Days
+101,Hispanic or Latino,23,90 Days to < 6 Months
+102,Hispanic or Latino,40,6 Months to < 1 Year
+103,Hispanic or Latino,31,1 Year to < 2 Years
+104,Hispanic or Latino,12,2 Years to < 3 Years
+105,Hispanic or Latino,8,3 Years to < 5 Years
+106,Hispanic or Latino,1,5 or More Years
+107,Asian alone,32,All Time
+108,Asian alone,5,< 30 Days
+109,Asian alone,9,30 to < 90 Days
+110,Asian alone,2,90 Days to < 6 Months
+111,Asian alone,6,6 Months to < 1 Year
+112,Asian alone,6,1 Year to < 2 Years
+113,Asian alone,3,2 Years to < 3 Years
+114,Asian alone,1,3 Years to < 5 Years
+115,American Indian and Alaska Native alone,7,All Time
+116,American Indian and Alaska Native alone,2,< 30 Days
+117,American Indian and Alaska Native alone,1,30 to < 90 Days
+118,American Indian and Alaska Native alone,2,90 Days to < 6 Months
+119,American Indian and Alaska Native alone,1,6 Months to < 1 Year
+120,American Indian and Alaska Native alone,1,1 Year to < 2 Years
+121,Native Hawaiian and Other Pacific Islander alone,3,All Time
+122,Native Hawaiian and Other Pacific Islander alone,2,6 Months to < 1 Year
+123,Native Hawaiian and Other Pacific Islander alone,1,1 Year to < 2 Years
+124,Population of two or more races:,27,All Time
+125,Population of two or more races:,4,< 30 Days
+126,Population of two or more races:,8,30 to < 90 Days
+127,Population of two or more races:,5,90 Days to < 6 Months
+128,Population of two or more races:,7,6 Months to < 1 Year
+129,Population of two or more races:,2,1 Year to < 2 Years
+130,Population of two or more races:,1,2 Years to < 3 Years
+131,All Ethnicities,501,All Time
+132,All Ethnicities,35,< 30 Days
+133,All Ethnicities,51,30 to < 90 Days
+134,All Ethnicities,46,90 Days to < 6 Months
+135,All Ethnicities,76,6 Months to < 1 Year
+136,All Ethnicities,102,1 Year to < 2 Years
+137,All Ethnicities,49,2 Years to < 3 Years
+138,All Ethnicities,65,3 Years to < 5 Years
+139,All Ethnicities,77,5 or More Years
+140,White alone,232,All Time
+141,White alone,12,< 30 Days
+142,White alone,24,30 to < 90 Days
+143,White alone,27,90 Days to < 6 Months
+144,White alone,35,6 Months to < 1 Year
+145,White alone,51,1 Year to < 2 Years
+146,White alone,18,2 Years to < 3 Years
+147,White alone,31,3 Years to < 5 Years
+148,White alone,34,5 or More Years
+149,Black or African American alone,86,All Time
+150,Black or African American alone,7,< 30 Days
+151,Black or African American alone,9,30 to < 90 Days
+152,Black or African American alone,11,90 Days to < 6 Months
+153,Black or African American alone,12,6 Months to < 1 Year
+154,Black or African American alone,17,1 Year to < 2 Years
+155,Black or African American alone,8,2 Years to < 3 Years
+156,Black or African American alone,10,3 Years to < 5 Years
+157,Black or African American alone,12,5 or More Years
+158,Hispanic or Latino,132,All Time
+159,Hispanic or Latino,9,< 30 Days
+160,Hispanic or Latino,15,30 to < 90 Days
+161,Hispanic or Latino,7,90 Days to < 6 Months
+162,Hispanic or Latino,20,6 Months to < 1 Year
+163,Hispanic or Latino,27,1 Year to < 2 Years
+164,Hispanic or Latino,15,2 Years to < 3 Years
+165,Hispanic or Latino,18,3 Years to < 5 Years
+166,Hispanic or Latino,21,5 or More Years
+167,Asian alone,28,All Time
+168,Asian alone,4,< 30 Days
+169,Asian alone,3,30 to < 90 Days
+170,Asian alone,4,6 Months to < 1 Year
+171,Asian alone,2,1 Year to < 2 Years
+172,Asian alone,5,2 Years to < 3 Years
+173,Asian alone,2,3 Years to < 5 Years
+174,Asian alone,8,5 or More Years
+175,American Indian and Alaska Native alone,2,All Time
+176,American Indian and Alaska Native alone,1,1 Year to < 2 Years
+177,American Indian and Alaska Native alone,1,3 Years to < 5 Years
+178,Native Hawaiian and Other Pacific Islander alone,3,All Time
+179,Native Hawaiian and Other Pacific Islander alone,1,6 Months to < 1 Year
+180,Native Hawaiian and Other Pacific Islander alone,1,1 Year to < 2 Years
+181,Native Hawaiian and Other Pacific Islander alone,1,3 Years to < 5 Years
+182,Population of two or more races:,18,All Time
+183,Population of two or more races:,3,< 30 Days
+184,Population of two or more races:,1,90 Days to < 6 Months
+185,Population of two or more races:,4,6 Months to < 1 Year
+186,Population of two or more races:,3,1 Year to < 2 Years
+187,Population of two or more races:,3,2 Years to < 3 Years
+188,Population of two or more races:,2,3 Years to < 5 Years
+189,Population of two or more races:,2,5 or More Years
+190,All Ethnicities,968,All Time
+191,All Ethnicities,57,< 30 Days
+192,All Ethnicities,139,30 to < 90 Days
+193,All Ethnicities,121,90 Days to < 6 Months
+194,All Ethnicities,168,6 Months to < 1 Year
+195,All Ethnicities,177,1 Year to < 2 Years
+196,All Ethnicities,94,2 Years to < 3 Years
+197,All Ethnicities,84,3 Years to < 5 Years
+198,All Ethnicities,128,5 or More Years
+199,White alone,401,All Time
+200,White alone,22,< 30 Days
+201,White alone,63,30 to < 90 Days
+202,White alone,46,90 Days to < 6 Months
+203,White alone,76,6 Months to < 1 Year
+204,White alone,77,1 Year to < 2 Years
+205,White alone,41,2 Years to < 3 Years
+206,White alone,37,3 Years to < 5 Years
+207,White alone,39,5 or More Years
+208,Black or African American alone,191,All Time
+209,Black or African American alone,8,< 30 Days
+210,Black or African American alone,14,30 to < 90 Days
+211,Black or African American alone,28,90 Days to < 6 Months
+212,Black or African American alone,31,6 Months to < 1 Year
+213,Black or African American alone,37,1 Year to < 2 Years
+214,Black or African American alone,19,2 Years to < 3 Years
+215,Black or African American alone,17,3 Years to < 5 Years
+216,Black or African American alone,37,5 or More Years
+217,Hispanic or Latino,294,All Time
+218,Hispanic or Latino,21,< 30 Days
+219,Hispanic or Latino,52,30 to < 90 Days
+220,Hispanic or Latino,36,90 Days to < 6 Months
+221,Hispanic or Latino,43,6 Months to < 1 Year
+222,Hispanic or Latino,47,1 Year to < 2 Years
+223,Hispanic or Latino,30,2 Years to < 3 Years
+224,Hispanic or Latino,23,3 Years to < 5 Years
+225,Hispanic or Latino,42,5 or More Years
+226,Asian alone,52,All Time
+227,Asian alone,5,< 30 Days
+228,Asian alone,4,30 to < 90 Days
+229,Asian alone,8,90 Days to < 6 Months
+230,Asian alone,13,6 Months to < 1 Year
+231,Asian alone,10,1 Year to < 2 Years
+232,Asian alone,1,2 Years to < 3 Years
+233,Asian alone,3,3 Years to < 5 Years
+234,Asian alone,8,5 or More Years
+235,American Indian and Alaska Native alone,6,All Time
+236,American Indian and Alaska Native alone,1,90 Days to < 6 Months
+237,American Indian and Alaska Native alone,1,6 Months to < 1 Year
+238,American Indian and Alaska Native alone,1,1 Year to < 2 Years
+239,American Indian and Alaska Native alone,1,2 Years to < 3 Years
+240,American Indian and Alaska Native alone,2,3 Years to < 5 Years
+241,Native Hawaiian and Other Pacific Islander alone,7,All Time
+242,Native Hawaiian and Other Pacific Islander alone,3,30 to < 90 Days
+243,Native Hawaiian and Other Pacific Islander alone,1,90 Days to < 6 Months
+244,Native Hawaiian and Other Pacific Islander alone,2,1 Year to < 2 Years
+245,Native Hawaiian and Other Pacific Islander alone,1,5 or More Years
+246,Population of two or more races:,17,All Time
+247,Population of two or more races:,1,< 30 Days
+248,Population of two or more races:,3,30 to < 90 Days
+249,Population of two or more races:,1,90 Days to < 6 Months
+250,Population of two or more races:,4,6 Months to < 1 Year
+251,Population of two or more races:,3,1 Year to < 2 Years
+252,Population of two or more races:,2,2 Years to < 3 Years
+253,Population of two or more races:,2,3 Years to < 5 Years
+254,Population of two or more races:,1,5 or More Years
+255,All Ethnicities,"9,327",All Time
+256,All Ethnicities,515,< 30 Days
+257,All Ethnicities,950,30 to < 90 Days
+258,All Ethnicities,"1,000",90 Days to < 6 Months
+259,All Ethnicities,"1,647",6 Months to < 1 Year
+260,All Ethnicities,"2,095",1 Year to < 2 Years
+261,All Ethnicities,"1,179",2 Years to < 3 Years
+262,All Ethnicities,"1,190",3 Years to < 5 Years
+263,All Ethnicities,751,5 or More Years
+264,White alone,"3,265",All Time
+265,White alone,187,< 30 Days
+266,White alone,388,30 to < 90 Days
+267,White alone,391,90 Days to < 6 Months
+268,White alone,549,6 Months to < 1 Year
+269,White alone,719,1 Year to < 2 Years
+270,White alone,401,2 Years to < 3 Years
+271,White alone,372,3 Years to < 5 Years
+272,White alone,258,5 or More Years
+273,Black or African American alone,"2,503",All Time
+274,Black or African American alone,131,< 30 Days
+275,Black or African American alone,257,30 to < 90 Days
+276,Black or African American alone,270,90 Days to < 6 Months
+277,Black or African American alone,465,6 Months to < 1 Year
+278,Black or African American alone,584,1 Year to < 2 Years
+279,Black or African American alone,307,2 Years to < 3 Years
+280,Black or African American alone,295,3 Years to < 5 Years
+281,Black or African American alone,194,5 or More Years
+282,Hispanic or Latino,"2,715",All Time
+283,Hispanic or Latino,147,< 30 Days
+284,Hispanic or Latino,230,30 to < 90 Days
+285,Hispanic or Latino,260,90 Days to < 6 Months
+286,Hispanic or Latino,483,6 Months to < 1 Year
+287,Hispanic or Latino,595,1 Year to < 2 Years
+288,Hispanic or Latino,354,2 Years to < 3 Years
+289,Hispanic or Latino,402,3 Years to < 5 Years
+290,Hispanic or Latino,244,5 or More Years
+291,Asian alone,602,All Time
+292,Asian alone,36,< 30 Days
+293,Asian alone,49,30 to < 90 Days
+294,Asian alone,64,90 Days to < 6 Months
+295,Asian alone,113,6 Months to < 1 Year
+296,Asian alone,145,1 Year to < 2 Years
+297,Asian alone,73,2 Years to < 3 Years
+298,Asian alone,81,3 Years to < 5 Years
+299,Asian alone,41,5 or More Years
+300,American Indian and Alaska Native alone,79,All Time
+301,American Indian and Alaska Native alone,2,< 30 Days
+302,American Indian and Alaska Native alone,12,30 to < 90 Days
+303,American Indian and Alaska Native alone,5,90 Days to < 6 Months
+304,American Indian and Alaska Native alone,12,6 Months to < 1 Year
+305,American Indian and Alaska Native alone,19,1 Year to < 2 Years
+306,American Indian and Alaska Native alone,13,2 Years to < 3 Years
+307,American Indian and Alaska Native alone,11,3 Years to < 5 Years
+308,American Indian and Alaska Native alone,5,5 or More Years
+309,Native Hawaiian and Other Pacific Islander alone,53,All Time
+310,Native Hawaiian and Other Pacific Islander alone,2,< 30 Days
+311,Native Hawaiian and Other Pacific Islander alone,6,30 to < 90 Days
+312,Native Hawaiian and Other Pacific Islander alone,1,90 Days to < 6 Months
+313,Native Hawaiian and Other Pacific Islander alone,6,6 Months to < 1 Year
+314,Native Hawaiian and Other Pacific Islander alone,17,1 Year to < 2 Years
+315,Native Hawaiian and Other Pacific Islander alone,12,2 Years to < 3 Years
+316,Native Hawaiian and Other Pacific Islander alone,6,3 Years to < 5 Years
+317,Native Hawaiian and Other Pacific Islander alone,3,5 or More Years
+318,Population of two or more races:,110,All Time
+319,Population of two or more races:,10,< 30 Days
+320,Population of two or more races:,8,30 to < 90 Days
+321,Population of two or more races:,9,90 Days to < 6 Months
+322,Population of two or more races:,19,6 Months to < 1 Year
+323,Population of two or more races:,16,1 Year to < 2 Years
+324,Population of two or more races:,19,2 Years to < 3 Years
+325,Population of two or more races:,23,3 Years to < 5 Years
+326,Population of two or more races:,6,5 or More Years
+327,All Ethnicities,"25,551",All Time
+328,All Ethnicities,"1,209",< 30 Days
+329,All Ethnicities,"2,133",30 to < 90 Days
+330,All Ethnicities,"2,407",90 Days to < 6 Months
+331,All Ethnicities,"4,207",6 Months to < 1 Year
+332,All Ethnicities,"5,823",1 Year to < 2 Years
+333,All Ethnicities,"3,472",2 Years to < 3 Years
+334,All Ethnicities,"3,781",3 Years to < 5 Years
+335,All Ethnicities,"2,519",5 or More Years
+336,White alone,"8,019",All Time
+337,White alone,496,< 30 Days
+338,White alone,779,30 to < 90 Days
+339,White alone,843,90 Days to < 6 Months
+340,White alone,"1,426",6 Months to < 1 Year
+341,White alone,"1,784",1 Year to < 2 Years
+342,White alone,"1,027",2 Years to < 3 Years
+343,White alone,"1,034",3 Years to < 5 Years
+344,White alone,630,5 or More Years
+345,Black or African American alone,"8,371",All Time
+346,Black or African American alone,353,< 30 Days
+347,Black or African American alone,668,30 to < 90 Days
+348,Black or African American alone,752,90 Days to < 6 Months
+349,Black or African American alone,"1,349",6 Months to < 1 Year
+350,Black or African American alone,"1,986",1 Year to < 2 Years
+351,Black or African American alone,"1,169",2 Years to < 3 Years
+352,Black or African American alone,"1,239",3 Years to < 5 Years
+353,Black or African American alone,855,5 or More Years
+354,Hispanic or Latino,"6,311",All Time
+355,Hispanic or Latino,261,< 30 Days
+356,Hispanic or Latino,479,30 to < 90 Days
+357,Hispanic or Latino,554,90 Days to < 6 Months
+358,Hispanic or Latino,986,6 Months to < 1 Year
+359,Hispanic or Latino,"1,415",1 Year to < 2 Years
+360,Hispanic or Latino,879,2 Years to < 3 Years
+361,Hispanic or Latino,"1,023",3 Years to < 5 Years
+362,Hispanic or Latino,714,5 or More Years
+363,Asian alone,"2,193",All Time
+364,Asian alone,72,< 30 Days
+365,Asian alone,149,30 to < 90 Days
+366,Asian alone,197,90 Days to < 6 Months
+367,Asian alone,339,6 Months to < 1 Year
+368,Asian alone,505,1 Year to < 2 Years
+369,Asian alone,301,2 Years to < 3 Years
+370,Asian alone,380,3 Years to < 5 Years
+371,Asian alone,250,5 or More Years
+372,American Indian and Alaska Native alone,263,All Time
+373,American Indian and Alaska Native alone,16,< 30 Days
+374,American Indian and Alaska Native alone,19,30 to < 90 Days
+375,American Indian and Alaska Native alone,31,90 Days to < 6 Months
+376,American Indian and Alaska Native alone,59,6 Months to < 1 Year
+377,American Indian and Alaska Native alone,38,1 Year to < 2 Years
+378,American Indian and Alaska Native alone,45,2 Years to < 3 Years
+379,American Indian and Alaska Native alone,32,3 Years to < 5 Years
+380,American Indian and Alaska Native alone,23,5 or More Years
+381,Native Hawaiian and Other Pacific Islander alone,155,All Time
+382,Native Hawaiian and Other Pacific Islander alone,4,< 30 Days
+383,Native Hawaiian and Other Pacific Islander alone,12,30 to < 90 Days
+384,Native Hawaiian and Other Pacific Islander alone,6,90 Days to < 6 Months
+385,Native Hawaiian and Other Pacific Islander alone,17,6 Months to < 1 Year
+386,Native Hawaiian and Other Pacific Islander alone,43,1 Year to < 2 Years
+387,Native Hawaiian and Other Pacific Islander alone,17,2 Years to < 3 Years
+388,Native Hawaiian and Other Pacific Islander alone,32,3 Years to < 5 Years
+389,Native Hawaiian and Other Pacific Islander alone,24,5 or More Years
+390,Population of two or more races:,239,All Time
+391,Population of two or more races:,7,< 30 Days
+392,Population of two or more races:,27,30 to < 90 Days
+393,Population of two or more races:,24,90 Days to < 6 Months
+394,Population of two or more races:,31,6 Months to < 1 Year
+395,Population of two or more races:,52,1 Year to < 2 Years
+396,Population of two or more races:,34,2 Years to < 3 Years
+397,Population of two or more races:,41,3 Years to < 5 Years
+398,Population of two or more races:,23,5 or More Years
+399,All Ethnicities,"48,608",All Time
+400,All Ethnicities,"2,174",< 30 Days
+401,All Ethnicities,"3,891",30 to < 90 Days
+402,All Ethnicities,"4,170",90 Days to < 6 Months
+403,All Ethnicities,"7,471",6 Months to < 1 Year
+404,All Ethnicities,"10,534",1 Year to < 2 Years
+405,All Ethnicities,"6,569",2 Years to < 3 Years
+406,All Ethnicities,"8,101",3 Years to < 5 Years
+407,All Ethnicities,"5,698",5 or More Years
+408,White alone,"18,670",All Time
+409,White alone,"1,043",< 30 Days
+410,White alone,"1,718",30 to < 90 Days
+411,White alone,"1,848",90 Days to < 6 Months
+412,White alone,"3,087",6 Months to < 1 Year
+413,White alone,"4,197",1 Year to < 2 Years
+414,White alone,"2,425",2 Years to < 3 Years
+415,White alone,"2,643",3 Years to < 5 Years
+416,White alone,"1,709",5 or More Years
+417,Black or African American alone,"14,542",All Time
+418,Black or African American alone,550,< 30 Days
+419,Black or African American alone,"1,065",30 to < 90 Days
+420,Black or African American alone,"1,167",90 Days to < 6 Months
+421,Black or African American alone,"2,167",6 Months to < 1 Year
+422,Black or African American alone,"3,175",1 Year to < 2 Years
+423,Black or African American alone,"2,055",2 Years to < 3 Years
+424,Black or African American alone,"2,514",3 Years to < 5 Years
+425,Black or African American alone,"1,849",5 or More Years
+426,Hispanic or Latino,"10,324",All Time
+427,Hispanic or Latino,402,< 30 Days
+428,Hispanic or Latino,769,30 to < 90 Days
+429,Hispanic or Latino,824,90 Days to < 6 Months
+430,Hispanic or Latino,"1,495",6 Months to < 1 Year
+431,Hispanic or Latino,"2,076",1 Year to < 2 Years
+432,Hispanic or Latino,"1,383",2 Years to < 3 Years
+433,Hispanic or Latino,"1,971",3 Years to < 5 Years
+434,Hispanic or Latino,"1,404",5 or More Years
+435,Asian alone,"4,024",All Time
+436,Asian alone,135,< 30 Days
+437,Asian alone,271,30 to < 90 Days
+438,Asian alone,246,90 Days to < 6 Months
+439,Asian alone,566,6 Months to < 1 Year
+440,Asian alone,877,1 Year to < 2 Years
+441,Asian alone,560,2 Years to < 3 Years
+442,Asian alone,780,3 Years to < 5 Years
+443,Asian alone,589,5 or More Years
+444,American Indian and Alaska Native alone,402,All Time
+445,American Indian and Alaska Native alone,18,< 30 Days
+446,American Indian and Alaska Native alone,28,30 to < 90 Days
+447,American Indian and Alaska Native alone,34,90 Days to < 6 Months
+448,American Indian and Alaska Native alone,60,6 Months to < 1 Year
+449,American Indian and Alaska Native alone,96,1 Year to < 2 Years
+450,American Indian and Alaska Native alone,50,2 Years to < 3 Years
+451,American Indian and Alaska Native alone,69,3 Years to < 5 Years
+452,American Indian and Alaska Native alone,47,5 or More Years
+453,Native Hawaiian and Other Pacific Islander alone,307,All Time
+454,Native Hawaiian and Other Pacific Islander alone,10,< 30 Days
+455,Native Hawaiian and Other Pacific Islander alone,14,30 to < 90 Days
+456,Native Hawaiian and Other Pacific Islander alone,24,90 Days to < 6 Months
+457,Native Hawaiian and Other Pacific Islander alone,43,6 Months to < 1 Year
+458,Native Hawaiian and Other Pacific Islander alone,47,1 Year to < 2 Years
+459,Native Hawaiian and Other Pacific Islander alone,49,2 Years to < 3 Years
+460,Native Hawaiian and Other Pacific Islander alone,63,3 Years to < 5 Years
+461,Native Hawaiian and Other Pacific Islander alone,57,5 or More Years
+462,Population of two or more races:,339,All Time
+463,Population of two or more races:,16,< 30 Days
+464,Population of two or more races:,26,30 to < 90 Days
+465,Population of two or more races:,27,90 Days to < 6 Months
+466,Population of two or more races:,53,6 Months to < 1 Year
+467,Population of two or more races:,66,1 Year to < 2 Years
+468,Population of two or more races:,47,2 Years to < 3 Years
+469,Population of two or more races:,61,3 Years to < 5 Years
+470,Population of two or more races:,43,5 or More Years
+471,All Ethnicities,"28,391",All Time
+472,All Ethnicities,"1,160",< 30 Days
+473,All Ethnicities,"2,053",30 to < 90 Days
+474,All Ethnicities,"2,288",90 Days to < 6 Months
+475,All Ethnicities,"4,174",6 Months to < 1 Year
+476,All Ethnicities,"6,005",1 Year to < 2 Years
+477,All Ethnicities,"3,821",2 Years to < 3 Years
+478,All Ethnicities,"5,025",3 Years to < 5 Years
+479,All Ethnicities,"3,865",5 or More Years
+480,White alone,"14,374",All Time
+481,White alone,688,< 30 Days
+482,White alone,"1,178",30 to < 90 Days
+483,White alone,"1,276",90 Days to < 6 Months
+484,White alone,"2,284",6 Months to < 1 Year
+485,White alone,"3,150",1 Year to < 2 Years
+486,White alone,"1,943",2 Years to < 3 Years
+487,White alone,"2,234",3 Years to < 5 Years
+488,White alone,"1,621",5 or More Years
+489,Black or African American alone,"6,705",All Time
+490,Black or African American alone,236,< 30 Days
+491,Black or African American alone,434,30 to < 90 Days
+492,Black or African American alone,517,90 Days to < 6 Months
+493,Black or African American alone,973,6 Months to < 1 Year
+494,Black or African American alone,"1,436",1 Year to < 2 Years
+495,Black or African American alone,887,2 Years to < 3 Years
+496,Black or African American alone,"1,272",3 Years to < 5 Years
+497,Black or African American alone,950,5 or More Years
+498,Hispanic or Latino,"4,149",All Time
+499,Hispanic or Latino,152,< 30 Days
+500,Hispanic or Latino,272,30 to < 90 Days
+501,Hispanic or Latino,300,90 Days to < 6 Months
+502,Hispanic or Latino,507,6 Months to < 1 Year
+503,Hispanic or Latino,819,1 Year to < 2 Years
+504,Hispanic or Latino,539,2 Years to < 3 Years
+505,Hispanic or Latino,827,3 Years to < 5 Years
+506,Hispanic or Latino,733,5 or More Years
+507,Asian alone,"2,719",All Time
+508,Asian alone,71,< 30 Days
+509,Asian alone,141,30 to < 90 Days
+510,Asian alone,169,90 Days to < 6 Months
+511,Asian alone,358,6 Months to < 1 Year
+512,Asian alone,521,1 Year to < 2 Years
+513,Asian alone,387,2 Years to < 3 Years
+514,Asian alone,596,3 Years to < 5 Years
+515,Asian alone,476,5 or More Years
+516,American Indian and Alaska Native alone,182,All Time
+517,American Indian and Alaska Native alone,6,< 30 Days
+518,American Indian and Alaska Native alone,16,30 to < 90 Days
+519,American Indian and Alaska Native alone,14,90 Days to < 6 Months
+520,American Indian and Alaska Native alone,24,6 Months to < 1 Year
+521,American Indian and Alaska Native alone,33,1 Year to < 2 Years
+522,American Indian and Alaska Native alone,18,2 Years to < 3 Years
+523,American Indian and Alaska Native alone,40,3 Years to < 5 Years
+524,American Indian and Alaska Native alone,31,5 or More Years
+525,Native Hawaiian and Other Pacific Islander alone,94,All Time
+526,Native Hawaiian and Other Pacific Islander alone,4,< 30 Days
+527,Native Hawaiian and Other Pacific Islander alone,3,30 to < 90 Days
+528,Native Hawaiian and Other Pacific Islander alone,4,90 Days to < 6 Months
+529,Native Hawaiian and Other Pacific Islander alone,11,6 Months to < 1 Year
+530,Native Hawaiian and Other Pacific Islander alone,15,1 Year to < 2 Years
+531,Native Hawaiian and Other Pacific Islander alone,14,2 Years to < 3 Years
+532,Native Hawaiian and Other Pacific Islander alone,24,3 Years to < 5 Years
+533,Native Hawaiian and Other Pacific Islander alone,19,5 or More Years
+534,Population of two or more races:,168,All Time
+535,Population of two or more races:,3,< 30 Days
+536,Population of two or more races:,9,30 to < 90 Days
+537,Population of two or more races:,8,90 Days to < 6 Months
+538,Population of two or more races:,17,6 Months to < 1 Year
+539,Population of two or more races:,31,1 Year to < 2 Years
+540,Population of two or more races:,33,2 Years to < 3 Years
+541,Population of two or more races:,32,3 Years to < 5 Years
+542,Population of two or more races:,35,5 or More Years
