@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Overall Variability in Access-to-Transplant Score</title>
+
+  <!-- D3 -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://d3js.org/d3-fetch.v1.min.js"></script>
+  <!-- Leaflet JavaScript code -->
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  <!-- Add the Chart.js library -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+  <div class="top-paragraph">
+    <p class="dashboard-description">Examining Access Disparities in Deceased Donor Kidney Transplants: A Focus on Access-to-Transplant Scores (ATS)</p>
+    <div class="chart-title">
+      <p>Overall Variability in Access-to-Transplant Score (ATS)</p>
+    </div>
+    <div class="chart-paragraph">
+      <p>The "Overall Variability in Access-to-Transplant Score (ATS)" typically represents the average or overall level of variability in access across all waitlisted kidney candidates. It provides a general assessment of the fairness of the transplantation system in terms of granting access to deceased donor kidneys</p>
+    </div>
+    
+  </div>
+    <div class="chart-paragraph">
+    </div>
+    <div id="chart"></div>
+  </div>
+
+  <div id="chart2" class="chart-container">
+    <div class="chart-title">
+      <p>Variability in Access-to-Transplant Scores (ATS) Among Waitlisted Kidney Candidates</p>
+    </div>
+    <div class = "chart-paragraph">
+      <p>"Variability in Access-to-Transplant Scores (ATS) Among Waitlisted Kidney Candidates" refers to the specific range of ATS values observed among individual candidates on the waiting list. It highlights the differences in access and the potential disparities that exist among different individuals or subgroups</p>
+  </div>
+
+  <div id="selectedCharacteristic"></div>
+  <div class="dropdown-container">
+    <select id="dropdown"></select>
+  </div>
+
+  <div id="chart3" class="chart-container">
+    <div class="chart-title">
+      <p>National Kidney Donors</p>
+    </div>
+    <div class="bubble-container">
+      <div class="bubble">
+        <p>1 donor organ saves 8 lives</p>
+      </div>
+    </div>
+    <ul>
+      <li>Annual kidney donors recovered to date: 7,803</li>
+      <li>Percent change (over previous year): 9.98</li>
+      <li>Daily average organs recovered in the past 30 days: 106</li>
+    </ul>
+  </div>
+  
+  <style>
+    .bubble-container {
+      position: relative;
+      display: inline-block;
+    }
+  
+    .bubble {
+      position: absolute;
+      background-color: blue;
+      color: white;
+      padding: 10px;
+      border-radius: 50%;
+      width: 150px;
+      text-align: center;
+      top: -20px;
+      right: -1300px; /* Adjust this value to position the bubble to the right */
+    }
+
+    
+    body {
+        background-color: #cccccc;
+    }
+
+  </style>
+  
+  
+  <!-- Add a container for chart4 -->
+  <div id="chart4" class="chart-container">
+    <div class="chart-title">
+      <p>National Kidney Transplants</p>
+    </div>
+    <ul>
+      <li>Annual kidney transplants recovered to date: 10,554</li>
+      <li>Percent change (over previous year): 8.67%</li>
+      <li>Daily average organs recovered in the past 30 days: 83</li>
+    </ul>
+  </div>
+
+  <!-- Our JavaScript file -->
+  <script type="text/javascript" src="static/js/logic2.js"></script>
+
+  <!-- Add paragraph at the bottom -->
+  <div id="waiting-time-chart"></div>
+  <canvas id="waiting-time-chart-canvas"></canvas>
+  <div class="chart-paragraph">
+    <p>Data represents the waiting time distribution for different ethnicities among individuals waiting for a kidney transplant. Each ethnicity category corresponds to the waiting time distribution for kidney candidates within that particular group.</p>
+  </div>
+
+  <div class="container">
+    Link to additional pages:
+    <nav>
+        <ul>
+            <li>
+                <a href="./index.html">Home page</a>
+            </li>
+            <li>
+                <a href="./map.html">Interactive Map</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+</body>
+</html>
