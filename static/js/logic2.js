@@ -1,5 +1,5 @@
 // Load the data from the CSV file
-d3.csv('Overall_Variability_in_Access_to_Transplant_Score.csv').then(data => {
+d3.csv('Data/Overall_Variability_in_Access_to_Transplant_Score.csv').then(data => {
     // Format the date values
     const parseDate = d3.timeParse('%Y-%m-%d');
     data.forEach(d => {
@@ -198,7 +198,7 @@ d3.csv('Overall_Variability_in_Access_to_Transplant_Score.csv').then(data => {
   });
   
   // Load the data from the CSV file
-  d3.csv('Variability_in_Access_to_Transplant_Scores.csv').then(data => {
+  d3.csv('Data/Variability_in_Access_to_Transplant_Scores.csv').then(data => {
     // Format the date values
     const parseDate = d3.timeParse('%Y-%m-%d');
     data.forEach(d => {
@@ -396,7 +396,7 @@ d3.csv('Overall_Variability_in_Access_to_Transplant_Score.csv').then(data => {
   
   
   //fourth chart
-  d3.csv("Don_Annual.csv").then(function(data) {
+  d3.csv("Data/Don_Annual.csv").then(function(data) {
     // Extract the required columns from the CSV data
     var years = data.map(function(d) { return +d.yr; });
     var donors = data.map(function(d) { return +d.n; });
@@ -508,7 +508,7 @@ d3.csv('Overall_Variability_in_Access_to_Transplant_Score.csv').then(data => {
   
   
   
-  d3.csv("TX_Annual.csv").then(function(data) {
+  d3.csv("Data/TX_Annual.csv").then(function(data) {
     // Extract the required columns from the CSV data
     var years = data.map(function(d) { return +d.yr; });
     var donors = data.map(function(d) { return +d.n; });
