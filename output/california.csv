@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"4,472",All Ages,White alone,All Time,California
+1,185,All Ages,White alone,< 30 Days,California
+2,279,All Ages,White alone,30 to < 90 Days,California
+3,291,All Ages,White alone,90 Days to < 6 Months,California
+4,574,All Ages,White alone,6 Months to < 1 Year,California
+5,872,All Ages,White alone,1 Year to < 2 Years,California
+6,619,All Ages,White alone,2 Years to < 3 Years,California
+7,809,All Ages,White alone,3 Years to < 5 Years,California
+8,843,All Ages,White alone,5 or More Years,California
+9,"2,131",All Ages,Black or African American alone,All Time,California
+10,52,All Ages,Black or African American alone,< 30 Days,California
+11,111,All Ages,Black or African American alone,30 to < 90 Days,California
+12,132,All Ages,Black or African American alone,90 Days to < 6 Months,California
+13,237,All Ages,Black or African American alone,6 Months to < 1 Year,California
+14,370,All Ages,Black or African American alone,1 Year to < 2 Years,California
+15,298,All Ages,Black or African American alone,2 Years to < 3 Years,California
+16,419,All Ages,Black or African American alone,3 Years to < 5 Years,California
+17,512,All Ages,Black or African American alone,5 or More Years,California
+18,"9,725",All Ages,Hispanic or Latino,All Time,California
+19,313,All Ages,Hispanic or Latino,< 30 Days,California
+20,575,All Ages,Hispanic or Latino,30 to < 90 Days,California
+21,618,All Ages,Hispanic or Latino,90 Days to < 6 Months,California
+22,"1,175",All Ages,Hispanic or Latino,6 Months to < 1 Year,California
+23,"1,695",All Ages,Hispanic or Latino,1 Year to < 2 Years,California
+24,"1,325",All Ages,Hispanic or Latino,2 Years to < 3 Years,California
+25,"2,039",All Ages,Hispanic or Latino,3 Years to < 5 Years,California
+26,"1,985",All Ages,Hispanic or Latino,5 or More Years,California
+27,"4,158",All Ages,Asian alone,All Time,California
+28,100,All Ages,Asian alone,< 30 Days,California
+29,214,All Ages,Asian alone,30 to < 90 Days,California
+30,250,All Ages,Asian alone,90 Days to < 6 Months,California
+31,487,All Ages,Asian alone,6 Months to < 1 Year,California
+32,757,All Ages,Asian alone,1 Year to < 2 Years,California
+33,584,All Ages,Asian alone,2 Years to < 3 Years,California
+34,940,All Ages,Asian alone,3 Years to < 5 Years,California
+35,826,All Ages,Asian alone,5 or More Years,California
+36,93,All Ages,American Indian and Alaska Native alone,All Time,California
+37,2,All Ages,American Indian and Alaska Native alone,< 30 Days,California
+38,5,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,California
+39,3,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,California
+40,13,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,California
+41,19,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+42,13,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,California
+43,16,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,California
+44,22,All Ages,American Indian and Alaska Native alone,5 or More Years,California
+45,275,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,California
+46,10,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,California
+47,8,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,California
+48,8,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,California
+49,34,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,California
+50,44,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+51,43,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,California
+52,60,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,California
+53,68,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,California
+54,212,All Ages,Population of two or more races:,All Time,California
+55,9,All Ages,Population of two or more races:,< 30 Days,California
+56,10,All Ages,Population of two or more races:,30 to < 90 Days,California
+57,9,All Ages,Population of two or more races:,90 Days to < 6 Months,California
+58,24,All Ages,Population of two or more races:,6 Months to < 1 Year,California
+59,43,All Ages,Population of two or more races:,1 Year to < 2 Years,California
+60,37,All Ages,Population of two or more races:,2 Years to < 3 Years,California
+61,43,All Ages,Population of two or more races:,3 Years to < 5 Years,California
+62,37,All Ages,Population of two or more races:,5 or More Years,California
+63,31,0-5 Years,White alone,All Time,California
+64,6,0-5 Years,White alone,< 30 Days,California
+65,6,0-5 Years,White alone,30 to < 90 Days,California
+66,7,0-5 Years,White alone,90 Days to < 6 Months,California
+67,0,0-5 Years,White alone,6 Months to < 1 Year,California
+68,8,0-5 Years,White alone,1 Year to < 2 Years,California
+69,2,0-5 Years,White alone,2 Years to < 3 Years,California
+70,2,0-5 Years,White alone,3 Years to < 5 Years,California
+71,0,0-5 Years,White alone,5 or More Years,California
+72,8,0-5 Years,Black or African American alone,All Time,California
+73,0,0-5 Years,Black or African American alone,< 30 Days,California
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,California
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,California
+76,1,0-5 Years,Black or African American alone,6 Months to < 1 Year,California
+77,6,0-5 Years,Black or African American alone,1 Year to < 2 Years,California
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,California
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,California
+80,40,0-5 Years,Hispanic or Latino,All Time,California
+81,5,0-5 Years,Hispanic or Latino,< 30 Days,California
+82,4,0-5 Years,Hispanic or Latino,30 to < 90 Days,California
+83,5,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,California
+84,15,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,California
+85,5,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,California
+86,3,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,California
+87,3,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,California
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,California
+89,17,0-5 Years,Asian alone,All Time,California
+90,4,0-5 Years,Asian alone,< 30 Days,California
+91,3,0-5 Years,Asian alone,30 to < 90 Days,California
+92,2,0-5 Years,Asian alone,90 Days to < 6 Months,California
+93,4,0-5 Years,Asian alone,6 Months to < 1 Year,California
+94,2,0-5 Years,Asian alone,1 Year to < 2 Years,California
+95,2,0-5 Years,Asian alone,2 Years to < 3 Years,California
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,California
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,California
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,California
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,California
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,California
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,California
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,California
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,California
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+106,4,0-5 Years,Population of two or more races:,All Time,California
+107,0,0-5 Years,Population of two or more races:,< 30 Days,California
+108,1,0-5 Years,Population of two or more races:,30 to < 90 Days,California
+109,1,0-5 Years,Population of two or more races:,90 Days to < 6 Months,California
+110,1,0-5 Years,Population of two or more races:,6 Months to < 1 Year,California
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,California
+112,1,0-5 Years,Population of two or more races:,2 Years to < 3 Years,California
+113,27,6-10 Years,White alone,All Time,California
+114,1,6-10 Years,White alone,< 30 Days,California
+115,1,6-10 Years,White alone,30 to < 90 Days,California
+116,1,6-10 Years,White alone,90 Days to < 6 Months,California
+117,8,6-10 Years,White alone,6 Months to < 1 Year,California
+118,7,6-10 Years,White alone,1 Year to < 2 Years,California
+119,1,6-10 Years,White alone,2 Years to < 3 Years,California
+120,5,6-10 Years,White alone,3 Years to < 5 Years,California
+121,3,6-10 Years,White alone,5 or More Years,California
+122,4,6-10 Years,Black or African American alone,All Time,California
+123,1,6-10 Years,Black or African American alone,< 30 Days,California
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,California
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,California
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,California
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,California
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,California
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,California
+130,1,6-10 Years,Black or African American alone,5 or More Years,California
+131,46,6-10 Years,Hispanic or Latino,All Time,California
+132,1,6-10 Years,Hispanic or Latino,< 30 Days,California
+133,5,6-10 Years,Hispanic or Latino,30 to < 90 Days,California
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,California
+135,5,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,California
+136,12,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,California
+137,7,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,California
+138,9,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,California
+139,7,6-10 Years,Hispanic or Latino,5 or More Years,California
+140,9,6-10 Years,Asian alone,All Time,California
+141,2,6-10 Years,Asian alone,< 30 Days,California
+142,1,6-10 Years,Asian alone,30 to < 90 Days,California
+143,1,6-10 Years,Asian alone,6 Months to < 1 Year,California
+144,1,6-10 Years,Asian alone,1 Year to < 2 Years,California
+145,1,6-10 Years,Asian alone,2 Years to < 3 Years,California
+146,2,6-10 Years,Asian alone,3 Years to < 5 Years,California
+147,1,6-10 Years,Asian alone,5 or More Years,California
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,California
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,California
+151,1,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,California
+152,1,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,California
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,California
+155,3,6-10 Years,Population of two or more races:,All Time,California
+156,1,6-10 Years,Population of two or more races:,< 30 Days,California
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,California
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,California
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,California
+160,1,6-10 Years,Population of two or more races:,2 Years to < 3 Years,California
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,California
+162,1,6-10 Years,Population of two or more races:,5 or More Years,California
+163,66,11-17 Years,White alone,All Time,California
+164,1,11-17 Years,White alone,< 30 Days,California
+165,6,11-17 Years,White alone,30 to < 90 Days,California
+166,4,11-17 Years,White alone,90 Days to < 6 Months,California
+167,12,11-17 Years,White alone,6 Months to < 1 Year,California
+168,17,11-17 Years,White alone,1 Year to < 2 Years,California
+169,5,11-17 Years,White alone,2 Years to < 3 Years,California
+170,11,11-17 Years,White alone,3 Years to < 5 Years,California
+171,10,11-17 Years,White alone,5 or More Years,California
+172,22,11-17 Years,Black or African American alone,All Time,California
+173,1,11-17 Years,Black or African American alone,< 30 Days,California
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,California
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,California
+176,2,11-17 Years,Black or African American alone,6 Months to < 1 Year,California
+177,4,11-17 Years,Black or African American alone,1 Year to < 2 Years,California
+178,6,11-17 Years,Black or African American alone,2 Years to < 3 Years,California
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,California
+180,8,11-17 Years,Black or African American alone,5 or More Years,California
+181,116,11-17 Years,Hispanic or Latino,All Time,California
+182,6,11-17 Years,Hispanic or Latino,< 30 Days,California
+183,14,11-17 Years,Hispanic or Latino,30 to < 90 Days,California
+184,12,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,California
+185,17,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,California
+186,19,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,California
+187,11,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,California
+188,11,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,California
+189,26,11-17 Years,Hispanic or Latino,5 or More Years,California
+190,14,11-17 Years,Asian alone,All Time,California
+191,1,11-17 Years,Asian alone,< 30 Days,California
+192,0,11-17 Years,Asian alone,30 to < 90 Days,California
+193,1,11-17 Years,Asian alone,90 Days to < 6 Months,California
+194,5,11-17 Years,Asian alone,6 Months to < 1 Year,California
+195,3,11-17 Years,Asian alone,1 Year to < 2 Years,California
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,California
+197,2,11-17 Years,Asian alone,3 Years to < 5 Years,California
+198,2,11-17 Years,Asian alone,5 or More Years,California
+199,2,11-17 Years,American Indian and Alaska Native alone,All Time,California
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,California
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,California
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,California
+204,2,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,California
+205,3,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,California
+206,1,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,California
+207,1,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,California
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+209,1,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,California
+210,2,11-17 Years,Population of two or more races:,All Time,California
+211,0,11-17 Years,Population of two or more races:,< 30 Days,California
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,California
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,California
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,California
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,California
+216,1,11-17 Years,Population of two or more races:,2 Years to < 3 Years,California
+217,1,11-17 Years,Population of two or more races:,3 Years to < 5 Years,California
+218,0,11-17 Years,Population of two or more races:,5 or More Years,California
+219,348,18-34 Years,White alone,All Time,California
+220,16,18-34 Years,White alone,< 30 Days,California
+221,34,18-34 Years,White alone,30 to < 90 Days,California
+222,26,18-34 Years,White alone,90 Days to < 6 Months,California
+223,42,18-34 Years,White alone,6 Months to < 1 Year,California
+224,52,18-34 Years,White alone,1 Year to < 2 Years,California
+225,54,18-34 Years,White alone,2 Years to < 3 Years,California
+226,63,18-34 Years,White alone,3 Years to < 5 Years,California
+227,61,18-34 Years,White alone,5 or More Years,California
+228,145,18-34 Years,Black or African American alone,All Time,California
+229,6,18-34 Years,Black or African American alone,< 30 Days,California
+230,12,18-34 Years,Black or African American alone,30 to < 90 Days,California
+231,22,18-34 Years,Black or African American alone,90 Days to < 6 Months,California
+232,15,18-34 Years,Black or African American alone,6 Months to < 1 Year,California
+233,30,18-34 Years,Black or African American alone,1 Year to < 2 Years,California
+234,23,18-34 Years,Black or African American alone,2 Years to < 3 Years,California
+235,14,18-34 Years,Black or African American alone,3 Years to < 5 Years,California
+236,23,18-34 Years,Black or African American alone,5 or More Years,California
+237,982,18-34 Years,Hispanic or Latino,All Time,California
+238,45,18-34 Years,Hispanic or Latino,< 30 Days,California
+239,60,18-34 Years,Hispanic or Latino,30 to < 90 Days,California
+240,68,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,California
+241,135,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,California
+242,194,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,California
+243,128,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,California
+244,207,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,California
+245,145,18-34 Years,Hispanic or Latino,5 or More Years,California
+246,216,18-34 Years,Asian alone,All Time,California
+247,5,18-34 Years,Asian alone,< 30 Days,California
+248,15,18-34 Years,Asian alone,30 to < 90 Days,California
+249,19,18-34 Years,Asian alone,90 Days to < 6 Months,California
+250,36,18-34 Years,Asian alone,6 Months to < 1 Year,California
+251,50,18-34 Years,Asian alone,1 Year to < 2 Years,California
+252,28,18-34 Years,Asian alone,2 Years to < 3 Years,California
+253,44,18-34 Years,Asian alone,3 Years to < 5 Years,California
+254,19,18-34 Years,Asian alone,5 or More Years,California
+255,11,18-34 Years,American Indian and Alaska Native alone,All Time,California
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,California
+257,3,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,California
+258,1,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,California
+259,2,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,California
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+261,4,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,California
+262,1,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,California
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,California
+264,15,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,California
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,California
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,California
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,California
+268,2,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,California
+269,5,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+270,4,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,California
+271,3,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,California
+272,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,California
+273,32,18-34 Years,Population of two or more races:,All Time,California
+274,3,18-34 Years,Population of two or more races:,< 30 Days,California
+275,1,18-34 Years,Population of two or more races:,30 to < 90 Days,California
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,California
+277,6,18-34 Years,Population of two or more races:,6 Months to < 1 Year,California
+278,6,18-34 Years,Population of two or more races:,1 Year to < 2 Years,California
+279,7,18-34 Years,Population of two or more races:,2 Years to < 3 Years,California
+280,6,18-34 Years,Population of two or more races:,3 Years to < 5 Years,California
+281,3,18-34 Years,Population of two or more races:,5 or More Years,California
+282,764,35-49 Years,White alone,All Time,California
+283,33,35-49 Years,White alone,< 30 Days,California
+284,50,35-49 Years,White alone,30 to < 90 Days,California
+285,49,35-49 Years,White alone,90 Days to < 6 Months,California
+286,123,35-49 Years,White alone,6 Months to < 1 Year,California
+287,152,35-49 Years,White alone,1 Year to < 2 Years,California
+288,110,35-49 Years,White alone,2 Years to < 3 Years,California
+289,126,35-49 Years,White alone,3 Years to < 5 Years,California
+290,121,35-49 Years,White alone,5 or More Years,California
+291,449,35-49 Years,Black or African American alone,All Time,California
+292,12,35-49 Years,Black or African American alone,< 30 Days,California
+293,23,35-49 Years,Black or African American alone,30 to < 90 Days,California
+294,27,35-49 Years,Black or African American alone,90 Days to < 6 Months,California
+295,49,35-49 Years,Black or African American alone,6 Months to < 1 Year,California
+296,82,35-49 Years,Black or African American alone,1 Year to < 2 Years,California
+297,81,35-49 Years,Black or African American alone,2 Years to < 3 Years,California
+298,91,35-49 Years,Black or African American alone,3 Years to < 5 Years,California
+299,84,35-49 Years,Black or African American alone,5 or More Years,California
+300,"2,532",35-49 Years,Hispanic or Latino,All Time,California
+301,90,35-49 Years,Hispanic or Latino,< 30 Days,California
+302,148,35-49 Years,Hispanic or Latino,30 to < 90 Days,California
+303,177,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,California
+304,320,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,California
+305,507,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,California
+306,349,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,California
+307,493,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,California
+308,448,35-49 Years,Hispanic or Latino,5 or More Years,California
+309,892,35-49 Years,Asian alone,All Time,California
+310,25,35-49 Years,Asian alone,< 30 Days,California
+311,36,35-49 Years,Asian alone,30 to < 90 Days,California
+312,57,35-49 Years,Asian alone,90 Days to < 6 Months,California
+313,107,35-49 Years,Asian alone,6 Months to < 1 Year,California
+314,185,35-49 Years,Asian alone,1 Year to < 2 Years,California
+315,135,35-49 Years,Asian alone,2 Years to < 3 Years,California
+316,195,35-49 Years,Asian alone,3 Years to < 5 Years,California
+317,152,35-49 Years,Asian alone,5 or More Years,California
+318,22,35-49 Years,American Indian and Alaska Native alone,All Time,California
+319,2,35-49 Years,American Indian and Alaska Native alone,< 30 Days,California
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,California
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,California
+322,2,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,California
+323,5,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+324,3,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,California
+325,2,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,California
+326,7,35-49 Years,American Indian and Alaska Native alone,5 or More Years,California
+327,62,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,California
+328,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,California
+329,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,California
+330,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,California
+331,7,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,California
+332,15,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+333,9,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,California
+334,12,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,California
+335,14,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,California
+336,40,35-49 Years,Population of two or more races:,All Time,California
+337,1,35-49 Years,Population of two or more races:,< 30 Days,California
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,California
+339,4,35-49 Years,Population of two or more races:,90 Days to < 6 Months,California
+340,2,35-49 Years,Population of two or more races:,6 Months to < 1 Year,California
+341,13,35-49 Years,Population of two or more races:,1 Year to < 2 Years,California
+342,5,35-49 Years,Population of two or more races:,2 Years to < 3 Years,California
+343,7,35-49 Years,Population of two or more races:,3 Years to < 5 Years,California
+344,7,35-49 Years,Population of two or more races:,5 or More Years,California
+345,"1,837",50-64 Years,White alone,All Time,California
+346,79,50-64 Years,White alone,< 30 Days,California
+347,103,50-64 Years,White alone,30 to < 90 Days,California
+348,125,50-64 Years,White alone,90 Days to < 6 Months,California
+349,229,50-64 Years,White alone,6 Months to < 1 Year,California
+350,361,50-64 Years,White alone,1 Year to < 2 Years,California
+351,252,50-64 Years,White alone,2 Years to < 3 Years,California
+352,343,50-64 Years,White alone,3 Years to < 5 Years,California
+353,345,50-64 Years,White alone,5 or More Years,California
+354,991,50-64 Years,Black or African American alone,All Time,California
+355,25,50-64 Years,Black or African American alone,< 30 Days,California
+356,54,50-64 Years,Black or African American alone,30 to < 90 Days,California
+357,64,50-64 Years,Black or African American alone,90 Days to < 6 Months,California
+358,117,50-64 Years,Black or African American alone,6 Months to < 1 Year,California
+359,165,50-64 Years,Black or African American alone,1 Year to < 2 Years,California
+360,129,50-64 Years,Black or African American alone,2 Years to < 3 Years,California
+361,196,50-64 Years,Black or African American alone,3 Years to < 5 Years,California
+362,241,50-64 Years,Black or African American alone,5 or More Years,California
+363,"4,234",50-64 Years,Hispanic or Latino,All Time,California
+364,115,50-64 Years,Hispanic or Latino,< 30 Days,California
+365,254,50-64 Years,Hispanic or Latino,30 to < 90 Days,California
+366,255,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,California
+367,510,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,California
+368,687,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,California
+369,582,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,California
+370,930,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,California
+371,901,50-64 Years,Hispanic or Latino,5 or More Years,California
+372,"1,759",50-64 Years,Asian alone,All Time,California
+373,40,50-64 Years,Asian alone,< 30 Days,California
+374,101,50-64 Years,Asian alone,30 to < 90 Days,California
+375,96,50-64 Years,Asian alone,90 Days to < 6 Months,California
+376,213,50-64 Years,Asian alone,6 Months to < 1 Year,California
+377,328,50-64 Years,Asian alone,1 Year to < 2 Years,California
+378,253,50-64 Years,Asian alone,2 Years to < 3 Years,California
+379,393,50-64 Years,Asian alone,3 Years to < 5 Years,California
+380,335,50-64 Years,Asian alone,5 or More Years,California
+381,42,50-64 Years,American Indian and Alaska Native alone,All Time,California
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,California
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,California
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,California
+385,7,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,California
+386,11,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+387,4,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,California
+388,7,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,California
+389,11,50-64 Years,American Indian and Alaska Native alone,5 or More Years,California
+390,147,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,California
+391,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,California
+392,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,California
+393,6,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,California
+394,19,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,California
+395,19,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+396,25,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,California
+397,34,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,California
+398,36,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,California
+399,79,50-64 Years,Population of two or more races:,All Time,California
+400,2,50-64 Years,Population of two or more races:,< 30 Days,California
+401,5,50-64 Years,Population of two or more races:,30 to < 90 Days,California
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,California
+403,11,50-64 Years,Population of two or more races:,6 Months to < 1 Year,California
+404,20,50-64 Years,Population of two or more races:,1 Year to < 2 Years,California
+405,9,50-64 Years,Population of two or more races:,2 Years to < 3 Years,California
+406,15,50-64 Years,Population of two or more races:,3 Years to < 5 Years,California
+407,16,50-64 Years,Population of two or more races:,5 or More Years,California
+408,"1,399",65 and Older,White alone,All Time,California
+409,49,65 and Older,White alone,< 30 Days,California
+410,79,65 and Older,White alone,30 to < 90 Days,California
+411,79,65 and Older,White alone,90 Days to < 6 Months,California
+412,160,65 and Older,White alone,6 Months to < 1 Year,California
+413,275,65 and Older,White alone,1 Year to < 2 Years,California
+414,195,65 and Older,White alone,2 Years to < 3 Years,California
+415,259,65 and Older,White alone,3 Years to < 5 Years,California
+416,303,65 and Older,White alone,5 or More Years,California
+417,512,65 and Older,Black or African American alone,All Time,California
+418,7,65 and Older,Black or African American alone,< 30 Days,California
+419,20,65 and Older,Black or African American alone,30 to < 90 Days,California
+420,19,65 and Older,Black or African American alone,90 Days to < 6 Months,California
+421,52,65 and Older,Black or African American alone,6 Months to < 1 Year,California
+422,82,65 and Older,Black or African American alone,1 Year to < 2 Years,California
+423,59,65 and Older,Black or African American alone,2 Years to < 3 Years,California
+424,118,65 and Older,Black or African American alone,3 Years to < 5 Years,California
+425,155,65 and Older,Black or African American alone,5 or More Years,California
+426,"1,775",65 and Older,Hispanic or Latino,All Time,California
+427,51,65 and Older,Hispanic or Latino,< 30 Days,California
+428,90,65 and Older,Hispanic or Latino,30 to < 90 Days,California
+429,101,65 and Older,Hispanic or Latino,90 Days to < 6 Months,California
+430,173,65 and Older,Hispanic or Latino,6 Months to < 1 Year,California
+431,271,65 and Older,Hispanic or Latino,1 Year to < 2 Years,California
+432,245,65 and Older,Hispanic or Latino,2 Years to < 3 Years,California
+433,386,65 and Older,Hispanic or Latino,3 Years to < 5 Years,California
+434,458,65 and Older,Hispanic or Latino,5 or More Years,California
+435,"1,251",65 and Older,Asian alone,All Time,California
+436,23,65 and Older,Asian alone,< 30 Days,California
+437,58,65 and Older,Asian alone,30 to < 90 Days,California
+438,75,65 and Older,Asian alone,90 Days to < 6 Months,California
+439,121,65 and Older,Asian alone,6 Months to < 1 Year,California
+440,188,65 and Older,Asian alone,1 Year to < 2 Years,California
+441,165,65 and Older,Asian alone,2 Years to < 3 Years,California
+442,304,65 and Older,Asian alone,3 Years to < 5 Years,California
+443,317,65 and Older,Asian alone,5 or More Years,California
+444,16,65 and Older,American Indian and Alaska Native alone,All Time,California
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,California
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,California
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,California
+448,2,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,California
+449,3,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,California
+450,2,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,California
+451,4,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,California
+452,4,65 and Older,American Indian and Alaska Native alone,5 or More Years,California
+453,47,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,California
+454,4,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,California
+455,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,California
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,California
+457,5,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,California
+458,5,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,California
+459,5,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,California
+460,11,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,California
+461,16,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,California
+462,52,65 and Older,Population of two or more races:,All Time,California
+463,2,65 and Older,Population of two or more races:,< 30 Days,California
+464,2,65 and Older,Population of two or more races:,30 to < 90 Days,California
+465,3,65 and Older,Population of two or more races:,90 Days to < 6 Months,California
+466,4,65 and Older,Population of two or more races:,6 Months to < 1 Year,California
+467,4,65 and Older,Population of two or more races:,1 Year to < 2 Years,California
+468,13,65 and Older,Population of two or more races:,2 Years to < 3 Years,California
+469,14,65 and Older,Population of two or more races:,3 Years to < 5 Years,California
+470,10,65 and Older,Population of two or more races:,5 or More Years,California
