@@ -49,5 +49,6 @@ Using HTMl, JavaScript, and CSS alongside bootstrap the research and analysis de
 
 This was an involved process as everyone did their work separately and the file structure needed to be changed carefully to make sure everyones work can be compiled together without the map or charts breaking. This meant making sure all of the data is being called from the same location and file paths are defined carefully and accurately. 
 
-Next steps for a hypothetical part 2 of this project would involve cleaning up the HTML to make the dashboard more user friendly and aesthetically pleasing - this would involve working with people with more experience than us in web design. We would also do similar ATS analysis for other organs, as well as create additional maps to show spatial data such as where the most kidney donors are compared to where kidney recepients are. 
+Next steps for a hypothetical part 2 of this project would involve cleaning up the HTML to make the dashboard more user friendly and aesthetically pleasing - this would involve working with people with more experience than us in web design. We would also do similar ATS analysis for other organs, as well as create additional maps to show spatial data such as where the most kidney donors are compared to where kidney recepients are.
+
 ---
